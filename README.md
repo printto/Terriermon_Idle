@@ -15,5 +15,4 @@ Idle screen which has Terriermon walking around.
 ### Features to be added
 - Ability to change the walker (walking sprites).
 - May be used in another Digivice-like game.
-- Live wallpaper
 - Wear OS watch face
